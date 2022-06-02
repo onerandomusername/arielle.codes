@@ -1,6 +1,8 @@
 <!-- __layout.svelte -->
-<center><header>arielle.codes</header></center>
-
+<script>
+  import '$lib/styles/style.css'
+</script>
+<center><header><a href="https://arielle.codes/">arielle.codes</header></center>
 <main>
   <slot />
 </main>

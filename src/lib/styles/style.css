@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    background: #222;
+    color: pink;
+    font-family: monospace;
+  }
+  
+  main {
+    padding: 1rem;
+    margin: 2rem auto;
+    max-width: 40rem;
+  }
