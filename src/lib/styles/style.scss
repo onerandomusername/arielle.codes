@@ -1,8 +1,10 @@
+@import url('$lib/styles/fonts.scss');
+
 body {
 	margin: 0;
 	background: #1a1a1a;
 	color: pink;
-	font-family: monospace;
+	font-family: 'cascadia-code';
 }
 
 main {

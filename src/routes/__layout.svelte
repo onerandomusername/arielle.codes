@@ -1,8 +1,10 @@
 <!-- __layout.svelte -->
-<script>
-	import Header from '$lib/components/header.svelte';
-	import Footer from '$lib/components/footer.svelte';
-	import '$lib/styles/style.css';
+<script lang="ts">
+	import Header from '$lib/components/Header.svelte';
+	import Footer from '$lib/components/Footer.svelte';
+
+	import '$lib/styles/style.scss';
+	import '$lib/themes/prism-laserwave.css';
 </script>
 
 <br />
